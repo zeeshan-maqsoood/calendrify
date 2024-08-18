@@ -1,0 +1,23 @@
+{
+  "name": "calendrific_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cache": "^5.1.2",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
